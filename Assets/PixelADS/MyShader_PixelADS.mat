@@ -6,8 +6,8 @@ Material:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: MyShader_VertexADS
-  m_Shader: {fileID: 4800000, guid: 8c820f28b43e9b24a93a7b3aab4d943c, type: 3}
+  m_Name: MyShader_PixelADS
+  m_Shader: {fileID: 4800000, guid: 91681911425b50844b9693e841221ada, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
